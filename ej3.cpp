@@ -1,3 +1,4 @@
+//el programa devuelve los valores que ingresaste previamente, pero de forma vertical y de forma horizontal//
 #include <stdio.h>
 void carga (int n, int Vector[]);
 void imprimir (int n, int Vector[]);
